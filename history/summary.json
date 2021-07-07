@@ -40,18 +40,20 @@
     "url": "https://superset.zencity.tools",
     "icon": "https://favicons.githubusercontent.com/superset.zencity.tools",
     "slug": "superset",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 507,
-    "timeDay": 386,
-    "timeWeek": 507,
-    "timeMonth": 507,
-    "timeYear": 507,
-    "dailyMinutesDown": {}
+    "time": 462,
+    "timeDay": 244,
+    "timeWeek": 462,
+    "timeMonth": 462,
+    "timeYear": 462,
+    "dailyMinutesDown": {
+      "2021-07-07": 0
+    }
   },
   {
     "name": "ValueProp",
