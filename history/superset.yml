@@ -1,7 +1,7 @@
 url: https://superset.zencity.tools
-status: up
-code: 200
-responseTime: 661
-lastUpdated: 2021-07-07T04:56:35.329Z
+status: down
+code: 502
+responseTime: 274
+lastUpdated: 2021-07-07T07:15:12.565Z
 startTime: Wed Jun 30 2021 07:14:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
