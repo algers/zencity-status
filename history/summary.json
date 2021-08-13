@@ -4,9 +4,9 @@
     "url": "https://www.livezencity.com",
     "icon": "https://favicons.githubusercontent.com/www.livezencity.com",
     "slug": "livezencity",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.95%",
@@ -16,6 +16,7 @@
     "timeMonth": 856,
     "timeYear": 828,
     "dailyMinutesDown": {
+      "2021-08-13": 1,
       "2021-08-09": 32
     }
   },
@@ -24,7 +25,7 @@
     "url": "https://portal.zencity.tools",
     "icon": "https://favicons.githubusercontent.com/portal.zencity.tools",
     "slug": "portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,6 +37,7 @@
     "timeMonth": 266,
     "timeYear": 262,
     "dailyMinutesDown": {
+      "2021-08-13": 0,
       "2021-07-28": 43
     }
   },
@@ -45,11 +47,11 @@
     "icon": "https://favicons.githubusercontent.com/superset.zencity.tools",
     "slug": "superset",
     "status": "up",
-    "uptime": "99.66%",
+    "uptime": "99.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "99.66%",
+    "uptimeYear": "99.67%",
     "time": 576,
     "timeDay": 395,
     "timeWeek": 668,
