@@ -25,7 +25,7 @@
     "url": "https://portal.zencity.tools",
     "icon": "https://favicons.githubusercontent.com/portal.zencity.tools",
     "slug": "portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -37,6 +37,7 @@
     "timeMonth": 341,
     "timeYear": 273,
     "dailyMinutesDown": {
+      "2021-12-10": 0,
       "2021-07-28": 43
     }
   },
